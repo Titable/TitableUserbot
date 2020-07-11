@@ -27,20 +27,6 @@ I THANK RkPROJECTS FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY
 <a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 
+## Credit
+<a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Telegram"></a>
 
-## Credits
-
-Thanks for all : 
-* [Baalaji maestro (RaphielGang)](https://github.com/RaphielGang) - Telegram-Paperplane
-* [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
-* [Mkaraniya](https://github.com/mkaraniya) - OpenUserBot
-* [DevPatel](https://github.com/Devp73) - OpenUserBot
-* [kandnub](https://github.com/kandnub) - TG-UserBot
-* [༺αиυвιѕ༻](https://github.com/Dark-Princ3) - X-tra-Telegram
-* [MoveAngel](https://github.com/MoveAngel) - One4uBot
-
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/sahyam2019/oub-remix/graphs/contributors).
-
-## License
-
-This userbot licensed on [Raphielscape Public License](https://github.com/sahyam2019/oub-remix/blob/sql-extended/LICENSE) - Version 1.d, February 2020
