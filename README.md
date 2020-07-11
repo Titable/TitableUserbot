@@ -28,5 +28,5 @@ I THANK RkPROJECTS FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY
 
 
 ## Credit
-<a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/Contact%20To-Supporter-red.svg?logo=Telegram"></a>
 
