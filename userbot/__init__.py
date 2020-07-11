@@ -292,7 +292,7 @@ with bot:
     except:
         LOGS.info(
             "BOTLOG_CHATID environment variable isn't valid"
-            "Please generate proper group id and set.You can ask in @PPE_Support if you need help")
+            "Please generate proper group id and set.You can ask in @lillybotchat if you need help")
         quit(1)
 
 # Global Variables
