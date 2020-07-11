@@ -14,7 +14,7 @@
   "success_url": "https://t.me/Lillybotchat",
   "stack": "container",
   "env": {
-    "API_KEY": {
+    "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true
     },
