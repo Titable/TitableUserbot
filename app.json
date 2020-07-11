@@ -1,7 +1,7 @@
 {
-  "name": "OPEN USERBOT REMIX",
-  "description": "[OUB-REMIX] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database, which can be coupled up with Mongo DB and a Redis backend",
-  "logo": "https://telegra.ph/file/d201a0cc4d7d5f420c419.jpg",
+  "name": "TITABLE USERBOT",
+  "description": "[TITABLEUSERBOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database, which can be coupled up with Mongo DB and a Redis backend",
+  "logo": "https://telegra.ph/file/9d7f5034a9f6afaab659f.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sahyam2019/oub-remix",
+  "repository": "https://github.com/Titable/TitableUserbot",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/PPE_Support",
+  "success_url": "https://t.me/Lillybotchat",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -174,7 +174,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "[PM = Report Spam] I ❤ ️@oub-remix",
+      "value": "[PM = Report Spam] I ❤ ️@Titable",
       "required": false
     },
     "ALIVE_NAME": {
