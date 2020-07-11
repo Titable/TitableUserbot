@@ -14,11 +14,11 @@ Make sure you have an account of heroku and follow all the steps required.
 Deploy to Heroku:
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/sahyam2019/oub-remix/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-## Groups and support
+### For any query or want to know how it works join Group And Channel 
 
-if you want new features, or announcements, you can follow our [OpenUserBot Channel](https://t.me/PaperplaneExtended_news).
+<a href="https://t.me/Rkprojects"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Lillybotchat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-For discussion, bug reporting, and help, you can join [OpenUserBot Support Group](https://t.me/PPE_Support).
 
 ## How to setup Google Drive
 [![SetGDRIVE](https://telegra.ph/file/fde15d05e4bde3448b01a.png)](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
