@@ -20,8 +20,13 @@ Deploy to Heroku:
 <a href="https://t.me/Lillybotchat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
-## How to setup Google Drive
-[![SetGDRIVE](https://telegra.ph/file/fde15d05e4bde3448b01a.png)](https://telegra.ph/How-To-Setup-Google-Drive-04-03)
+## HOW TO DEPLOY 
+
+I THANK RkPROJECTS FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY 
+
+<a href="https://t.me/Rkprojects/17"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+
+
 
 ## Credits
 
